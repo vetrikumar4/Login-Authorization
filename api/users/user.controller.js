@@ -110,17 +110,6 @@ const {
         });
       });
     },
-
-
-   /* logout:(req,res)=>{
-        if(req.headers && req.headers.authorization){
-            console.log(req.headers.authorization)
-            res.send("ok")
-        }
-    
-    },*/
-
-
    
     deleteUser: (req, res) => {
       const data = req.body;
