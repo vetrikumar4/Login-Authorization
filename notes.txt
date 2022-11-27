@@ -1,0 +1,31 @@
+database - loginauth
+table - registration
+
+
+login/post
+
+{   
+    "email": "vetri@gmail.com",
+    "password": "vetri"
+}
+
+
+
+create or update
+
+ 	{
+            "id": 1,
+            "firstName": "vetri",
+            "lastName": "kumar",
+            "gender": "male",
+            "email": "vetri@gmail.com",
+            "number": 123456789
+        }
+
+
+need to update
+if password not mention while creating user need to inform mention password
+
+
+
+
